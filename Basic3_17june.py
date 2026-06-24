@@ -246,7 +246,7 @@ Seconds = 4
 
 ---
 """
-
+"""
 total_seconds= int(input(" enter total seconds"))
 hours= total_seconds//3600
 rem_hr = total_seconds % 3600
@@ -256,7 +256,7 @@ seconds= rem_min
 print("Hours =", hours)
 print("Minutes =", minutes)
 print("Seconds =", seconds)
-
+"""
 """
 ---
 
