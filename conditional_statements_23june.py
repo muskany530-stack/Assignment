@@ -690,6 +690,7 @@ Distance = 300
 Output:
 Dispatch Status = Dispatch via Fast Courier
 """
+"""
 stock= int(input("Stock ="))     
 priority= (input("Priority =")).lower()    
 distance= int(input("Distance =")) 
@@ -715,5 +716,6 @@ else  :
              print("hold")
       else:
           print("out of stock")
+"""
      
 
