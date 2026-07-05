@@ -309,6 +309,7 @@ Input:
 Output:
 Prime Number
 """
+"""
 n= int(input("n ="))
 x= 0
 
@@ -327,7 +328,8 @@ if x ==0 :
 else :
     print(" Not a prime number")
              
-           
+"""
+        
 
 
 
