@@ -424,10 +424,10 @@ for n in range(a, b+1):
             else:
                print(n,"no event")
          else:
-            print(n,"event schelduled")
-            count=count+1
+             print(n,"event scheduled")
+             count=count+1
       else:
-         print(n,"no event")
+           print(n,"no event")
  
 
 print("Total Leap Years =",count)
